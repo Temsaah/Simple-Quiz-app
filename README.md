@@ -1,1 +1,1 @@
-# Simple-Quiz-app
+# Quiz-app
